@@ -1,7 +1,7 @@
 <h1>:wave: Hello there, I'm <a href="https://github.com/ziibii88">Mohammad Rajib</a></h1>
 <br>
 
-Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Full Stack Developer</a> and <a href="https://www.google.com/search?q=devops+engineer">DevOps Engineer</a> with more than 2 years of related industry experience. Currently enrolled into <a href="https://www.ecu.edu.au/degrees/courses/master-of-cyber-security">Master of Cyber Security
+Well qualified <a href="https://www.google.com/search?q=full+stack+developer">Full Stack Developer</a> and <a href="https://www.google.com/search?q=devops+engineer">DevOps Engineer</a> with more than 2 years of related industry experience.
 
 I love <img alt="travel" height=16px src="https://www.svgrepo.com/show/200674/travel.svg"/> travelling. I am from <img alt="bd-flag" height=16px src="https://www.svgrepo.com/show/242284/bangladesh.svg"/> Bangladesh
 
